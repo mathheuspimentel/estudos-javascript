@@ -42,7 +42,7 @@ function contagemRegressiva(numero){
 /* 
  * Formulário envio de dados para cálculo da média 
  */
-const formulario1 = document.getElementById('formulario-01');
+const formulario1 = document.getElementById('formulario-0');
 
 if(formulario1)
     formulario1.addEventListener('submit', function( evento ){
