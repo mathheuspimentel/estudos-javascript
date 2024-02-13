@@ -11,7 +11,7 @@ function calcularMedia( notas ) {
 
 }
 
-let media; // escopo global
+let media; // escopo global - no escopo é necessario declarar a variavel novamente?
 
 function aprovacao( notas ) {
 
